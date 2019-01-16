@@ -1,3 +1,8 @@
+#####################
+#Convert json format to yolo faomart
+# 2018/12/12 by Tony
+#####################
+
 import string
 import sys
 import json
